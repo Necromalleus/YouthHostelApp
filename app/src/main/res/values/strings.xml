@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Youth Hostel App</string>
+    <string name="Title">Dingo Moon Hostel</string>
+    <string name="Button_Title">Hostel Information</string>
+    <string name="Adress">88 Kangaroo Lane Darwin, Australia</string>
+    <string name="Hostel_Cost">Cost Range: $18 - $22 a night</string>
+</resources>
